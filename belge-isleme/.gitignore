@@ -1,0 +1,8 @@
+venv/
+temp_uploads/
+data/kuyruk_ciktilari/
+__pycache__/
+*.pyc
+data/onbellek/ocr_sonuclari.json
+data/raw_files/
+rapor_ciktilari/
